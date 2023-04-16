@@ -1,0 +1,1 @@
+module write-in-go
